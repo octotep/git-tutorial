@@ -1,3 +1,7 @@
 #!/bin/bash
 
-echo "HELLO WORLD!"
+function myFun() {
+	echo "bash doesn't exist"
+}
+
+myFun
