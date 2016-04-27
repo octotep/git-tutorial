@@ -5,3 +5,5 @@ function myFun() {
 }
 
 myFun
+
+echo "BASH IS THE BEST"
